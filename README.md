@@ -14,7 +14,8 @@ This repository contains my solutions to various LeetCode problems that I have p
 - Platform: LeetCode.
 
 **✨ Highlights**
-DSA
+
+DSA:
 - Covers a variety of topics, including:
 - Arrays, Strings, and Linked Lists.
 - Binary Trees and Binary Search Trees.
